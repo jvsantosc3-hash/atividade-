@@ -1,0 +1,6 @@
+{
+  "name": "Consulta CNPJ & Comprovante Cadastral",
+  "description": "Portal completo para consulta de informações cadastrais de CNPJ e emissão de Comprovante de Inscrição e de Situação Cadastral atualizado com validação e impressão em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
